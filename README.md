@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Patrick</h1>
-<h3 align="center">Currently studying software engineering @ITBA<h3>
+<h1>Hi 👋, I'm Patrick</h1>
+<h3>Currently studying software engineering @ITBA<h3>
 <br>
-<div align="center">
+<div >
     <a href="https://www.linkedin.com/in/patrickmdey/">
         <img src="https://img.shields.io/badge/-patrickmdey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmdey/"/>
     </a>
@@ -13,11 +13,9 @@
     </a>
 </div>
 <br>
-<div style="display:flex; align-items:center; justify-content:center" align="center">
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
-    </p>
-    <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&langs_count=8&layout=compact&hide=c" alt="My most used languages"/>
-    </p>
-</div>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
+</p>
+<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&langs_count=8&layout=compact&hide=c" alt="My most used languages"/>
+</p>
