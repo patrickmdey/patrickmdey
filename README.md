@@ -13,11 +13,11 @@
     </a>
 </div>
 <br>
-<div align="center">
+<div style="display:flex; align-items:center; justify-content:center" align="center">
     <p>
         <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
     </p>
     <p>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&langs_count=9&layout=compact&hide=c" alt="My most used languages"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&langs_count=8&layout=compact&hide=c" alt="My most used languages"/>
     </p>
 </div>
