@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Patrick</h1>
 <h3>Currently studying software engineering @ITBA<h3>
-<br>
 <div >
     <a href="https://www.linkedin.com/in/patrickmdey/">
         <img src="https://img.shields.io/badge/-patrickmdey-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrickmdey/"/>
