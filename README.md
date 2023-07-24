@@ -15,6 +15,6 @@
 <!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
 </p> -->
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=8&theme=dracula"/>
+<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=9&theme=dark"/>
 
 <!-- <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=16"/> -->
