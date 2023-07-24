@@ -12,12 +12,10 @@
     </a>
 </div>
 <br>
-    <!--
-<p>
+<!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
-</p>
+</p> -->
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&langs_count=8&layout=compact&hide=c" alt="My most used languages"/>
 </p>
--->
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=16&theme=dracula"/>
+<!-- <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=16"/> -->
