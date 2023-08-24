@@ -12,9 +12,8 @@
     </a>
 </div>
 <br>
-<!-- <p>
+<p>
     <img src="https://github-readme-stats.vercel.app/api?username=patrickmdey" alt="My github stats"/>
-</p> -->
-<img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=9&theme=dark"/>
-
-<!-- <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&langs_count=16"/> -->
+</p>
+<!-- <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=patrickmdey&layout=compact&hide_progress=true&langs_count=16"/> -->
+<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&hide_progress=true&langs_count=8&hide=assembly"/>
