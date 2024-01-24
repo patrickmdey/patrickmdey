@@ -13,5 +13,4 @@
 </div>
 <br>
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickmdey&show_icons=true&&hide=issues&disable_animations=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/patrickmdey/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&hide_progress=true&langs_count=8&hide=assembly&card_width=468&theme=dark#gh-dark-mode-only)](https://github.com/patrickmdey/github-readme-stats#gh-dark-mode-only)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickmdey&hide_progress=true&langs_count=8&hide=assembly&#gh-dark-mode-only)](https://github.com/patrickmdey/github-readme-stats#gh-dark-mode-only)
