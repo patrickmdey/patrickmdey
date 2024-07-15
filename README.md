@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Patrick</h1>
-<h3>Currently studying software engineering @ITBA<h3>
+<h3>Software engineer @ITBA<h3>
 
 <div >
     <a href="https://komarev.com/ghpvc/?username=patrickmdey&color=blue">
